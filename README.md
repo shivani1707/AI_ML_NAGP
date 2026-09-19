@@ -1,3 +1,8 @@
+| Resource | URL |
+|---|---|
+| **GitHub Repository** | https://github.com/shivani1707/AI_ML_NAGP|
+
+
 # Singapore Travel Planning Assistant
 
 A context-aware AI travel assistant for Singapore that combines a document-based
