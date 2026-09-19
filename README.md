@@ -1,6 +1,7 @@
 | Resource | URL |
 |---|---|
 | **GitHub Repository** | https://github.com/shivani1707/AI_ML_NAGP|
+| **Demo Video** | https://nagarro-my.sharepoint.com/:v:/p/shivani_verma/IQCM6Xs0TrdoTZCl0wGZuCRGAWVRoPz5NcIUnCJjDGO1ON0?e=xEiHya&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 # Singapore Travel Planning Assistant
